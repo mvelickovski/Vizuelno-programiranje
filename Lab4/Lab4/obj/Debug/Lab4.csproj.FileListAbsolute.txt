@@ -1,0 +1,10 @@
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\marko\Desktop\C# Workspace\Lab4\Lab4\obj\Debug\Lab4.DodavanjeProdukt.resources

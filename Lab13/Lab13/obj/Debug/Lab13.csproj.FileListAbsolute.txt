@@ -1,0 +1,5 @@
+C:\Users\marko\Desktop\C# Workspace\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\marko\Desktop\C# Workspace\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\marko\Desktop\C# Workspace\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\marko\Desktop\C# Workspace\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\marko\Desktop\C# Workspace\Lab13\Lab13\obj\Debug\Lab13.pdb

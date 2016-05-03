@@ -1,0 +1,6 @@
+C:\Users\marko\Desktop\C# Workspace\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\marko\Desktop\C# Workspace\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\marko\Desktop\C# Workspace\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\marko\Desktop\C# Workspace\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\C# Workspace\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\marko\Desktop\C# Workspace\Lab12\Lab12\obj\Debug\Lab12.pdb
